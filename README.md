@@ -1,0 +1,1 @@
+cfn-postgresql-user-provider
