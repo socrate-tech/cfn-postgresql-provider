@@ -1,1 +1,1 @@
-cfn-postgresql-user-provider
+cfn-postgresql-provider
